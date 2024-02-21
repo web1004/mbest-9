@@ -1,0 +1,33 @@
+<svg class="cat" viewBox="0 0 282.23 328.88">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #181715;
+        stroke-miterlimit: 10;
+        stroke-width: 8px;
+      }
+
+      .cls-2 {
+        fill: #181715;
+      }
+    </style>
+  </defs>
+  <path class="cls-1 ear1" d="M114.31,31s22.56-25.27,33.35-20.64c11,4.72-3.55,49.53-3.55,49.53" transform="translate(0 -0.02)"/>
+  <path class="cls-1" d="M108.42,31.26c-19.94-4-52.2-5.88-69.14,21.74s-10.41,45.48-4.46,54.48c11.79,17.83,35.75,24.28,59,22.4s49.1-11.58,53.53-39.13C151.78,63,134.11,36.41,108.42,31.26Z" transform="translate(0 -0.02)"/>
+  <path class="cls-1 ear2" d="M39.28,53s-7-36.64-.61-45.84,15.9,2.71,31.71,24" transform="translate(0 -0.02)"/>
+  <ellipse class="cls-2" cx="107.83" cy="70.62" rx="9.62" ry="6.42" transform="translate(24.07 168.57) rotate(-82.69)"/>
+  <ellipse class="cls-2" cx="68.36" cy="70.61" rx="9.62" ry="6.42" transform="translate(-10.38 129.41) rotate(-82.69)"/>
+  <polygon class="cls-2" points="84.29 84.35 81.82 80.03 79.33 75.7 91.15 75.72 87.75 80.76 84.29 84.35"/>
+  <g class="carFace">
+    <path class="cls-1" d="M127.63,80s26.13-6.48,51.85,0" transform="translate(0 -0.02)"/>
+    <path class="cls-1" d="M127.63,90.85s29.9,2.3,48.3,5" transform="translate(0 -0.02)"/>
+    <path class="cls-1" d="M47.89,77.61A135,135,0,0,0,7.17,74.47" transform="translate(0 -0.02)"/>
+    <path class="cls-1" d="M47.89,90.31s-37.84-.77-46.65,2.11" transform="translate(0 -0.02)"/>
+  </g>
+  <polyline class="cls-1" points="77.57 89.83 84.76 84.35 92.66 89.83"/>
+  <path class="cls-1" d="M123.11,323c18.65.83,43.7.88,51.76-4.16,13.39-8.37,45.35-30.52,25.1-93.65-11.29-35.2-39.91-42.75-65.75-109.63" transform="translate(0 -0.02)"/>
+  <path class="cls-1" d="M63.45,126.75S43.74,193.08,57,249.85l11.65,49.76s-13.4,6.27-5.24,17.57,33.81,4.07,33.81,4.07" transform="translate(0 -0.02)"/>
+  <path class="cls-1" d="M92.11,233.55l5,66.48s-14,13.32,1.55,22.08c10,5.62,27.18,1,27.18,1l3.38-89.58" transform="translate(0 -0.02)"/>
+  <path class="cls-1 last" d="M207.34,250s30.54-26.47,26.54-62.41c-4.6-41.4-14.64-51.11-21.33-74.9s6.22-55.91,41.82-53.49c18.4,1.26,24.26,5.72,23.84,11.44s-8.78,10.91-23,8.31S226,82.16,231.37,108.5s21.33,42.24,21.75,86.57c.32,33.88-20.78,58-46.56,79.72" transform="translate(0 -0.02)"/>
+</svg>
